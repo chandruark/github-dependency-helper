@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+demo:
+  github:
+    api:
+      token: "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"
+
+logging:
+  level:
+    com.example.demo.github.api: TRACE
